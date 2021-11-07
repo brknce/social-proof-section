@@ -136,7 +136,8 @@ body{
 
     .bottom-box{
         display: block;
-        height: max-content;
+        height: 750px;
+        justify-content: initial;
     }
 
     #rated-box-2{
