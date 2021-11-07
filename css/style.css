@@ -136,6 +136,7 @@ body{
 
     .bottom-box{
         display: block;
+        height: max-content;
     }
 
     #rated-box-2{
@@ -168,6 +169,7 @@ body{
         padding-left: 10px;
         padding-right: 10px;
         margin: auto auto;
+        width: max-content;
     }
 
     .review-box{
