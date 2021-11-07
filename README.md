@@ -1,6 +1,6 @@
 # Frontend Mentor - Social proof section
 
-<p><b>You can see my solution:</b> https://brknce.github.io/social_proof_section/</p>
+<p><b>You can see my solution:</b> https://brknce.github.io/social-proof-section/</p>
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
