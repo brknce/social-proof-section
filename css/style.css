@@ -165,8 +165,6 @@ body{
     }
 
     .container{
-        overflow: auto;
-        width: fit-content;
         padding-left: 10px;
         padding-right: 10px;
         margin: auto auto;
